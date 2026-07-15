@@ -5,7 +5,7 @@ Soy un programador en formación técnica con un enfoque práctico hacia el desa
 
 # Educación y Formación
 
-* **Técnico en Programación de Software** — SENA (Período: 2025 - 2026)
+* **Técnico en Programación de Software** — SENA (Período: 2026 - 2027)
 * **Formación Complementaria:**
 
 ---
