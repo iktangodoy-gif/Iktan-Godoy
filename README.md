@@ -1,7 +1,5 @@
 ## Perfil de Iktan Godoy
-
- Técnico en Programación de Software
-
+Técnico en Programación de Software
 Soy un programador en formación técnica con un enfoque práctico hacia el desarrollo de aplicaciones y la resolución de problemas lógicos. 
 ---
 
